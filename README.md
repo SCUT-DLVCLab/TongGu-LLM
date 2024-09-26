@@ -13,15 +13,22 @@
 通古大模型是华南理工大学深度学习与视觉计算实验室（SCUT-DLVCLab）开发的古籍大语言模型，具备较强大的古籍理解和处理能力，通古大模型使用了多阶段的指令微调，并创新性地提出了冗余度感知微调（RAT）方法，在提升下游任务性能的同时极大地保留了基座模型的能力。
 
 <div align="center">
-  <img src="./images/model_training.png"/>
+  <img src="./images/model_training.png">
 </div>
 
 
 ## 评测结果
 
+通古在广泛的古籍理解和处理任务上超越了现有的模型，与其基座模型Baichuan2-7B-Chat的对比显示了通古训练流程和方法的有效性，在未来通古会持续更新模型并受益于更强大的基座模型。
+
 <div align="center">
-  <img src="./images/evaluation_table.png"/>
+  <img src="./images/evaluation_table.png">
 </div>
+
+<div align="center">
+  <img src="./images/evaluation_table2.png">
+</div>
+
 
 # 开源清单
 
