@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
-  <img src="./images/evaluation_table2.png">
+  <img src="./images/evaluation_table2.png" width="600">
 </div>
 
 
