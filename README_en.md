@@ -26,33 +26,33 @@ All users must follow all use conditions; otherwise, the authorization will be r
 
 # Examples
 
-<details><summary><b>句读</b></summary>
+<details><summary><b>Punctuation</b></summary>
     
-![image](https://github.com/zhuyiqun/Tonggu/blob/main/images/标点.png)
+![image](https://github.com/SCUT-DLVCLab/Tonggu-LLM/blob/main/images/标点.png)
 
 </details>
 
-<details><summary><b>成语解释</b></summary>
+<details><summary><b>Idiom</b></summary>
     
-![image](https://github.com/zhuyiqun/Tonggu/blob/main/images/成语解释.png)
+![image](https://github.com/SCUT-DLVCLab/Tonggu-LLM/blob/main/images/成语解释.png)
 
 </details>
 
-<details><summary><b>文白翻译</b></summary>
+<details><summary><b>Classical to Modern Chinese Translation</b></summary>
     
-![image](https://github.com/zhuyiqun/Tonggu/blob/main/images/文白翻译.png)
+![image](https://github.com/SCUT-DLVCLab/Tonggu-LLM/blob/main/images/文白翻译.png)
 
 </details>
 
-<details><summary><b>白文翻译</b></summary>
+<details><summary><b>Modern to Classical Chinese Translation</b></summary>
     
-![image](https://github.com/zhuyiqun/Tonggu/blob/main/images/白文翻译.png)
+![image](https://github.com/SCUT-DLVCLab/Tonggu-LLM/blob/main/images/白文翻译.png)
 
 </details>
 
-<details><summary><b>诗词创作</b></summary>
+<details><summary><b>Ancient Poetry Writing</b></summary>
     
-![image](https://github.com/zhuyiqun/Tonggu/blob/main/images/词创作.png)
+![image]([https://github.com/zhuyiqun/Tonggu/blob/main](https://github.com/SCUT-DLVCLab/Tonggu-LLM/blob/main)/images/词创作.png)
 
 </details>
 
