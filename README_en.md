@@ -33,6 +33,10 @@ Tonggu has surpassed existing models in a wide range of classical Chinese unders
 
 [**TongGu-7B-Instruct**](https://huggingface.co/DLVCLab/TongGu-7B-Instruct): The 7B classical Chinese language model is based on Baichuan2-7B-Base, which has undergone unsupervised incremental pre-training on a corpus of 2.41 billion classical Chinese texts, and fine-tuned on 4 million classical Chinese dialogue data, possessing functions such as ancient text annotation, translation, and appreciation.
 
+| Model                       | Download Link                                                     |
+| :----------------------------- | :----------------------------------------------------------- |
+|TongGu-7B-Instruct    | [Link](https://huggingface.co/DLVCLab/TongGu-7B-Instruct) |
+
 
 ## Data
 
