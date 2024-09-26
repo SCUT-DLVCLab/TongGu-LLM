@@ -52,7 +52,7 @@ All users must follow all use conditions; otherwise, the authorization will be r
 
 <details><summary><b>Ancient Poetry Writing</b></summary>
     
-![image]([https://github.com/zhuyiqun/Tonggu/blob/main](https://github.com/SCUT-DLVCLab/Tonggu-LLM/blob/main)/images/词创作.png)
+![image](https://github.com/SCUT-DLVCLab/Tonggu-LLM/blob/main/images/词创作.png)
 
 </details>
 
