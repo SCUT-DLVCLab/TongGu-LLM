@@ -36,6 +36,10 @@
 
 [**TongGu-7B-Instruct**](https://huggingface.co/DLVCLab/TongGu-7B-Instruct): 7B古籍大语言模型，基于Baichuan2-7B-Base，在2.41B古籍语料上做无监督增量预训练，并在400万古籍对话数据上做指令微调，具备古文句读、翻译、赏析等功能。
 
+| 模型名称                       | 下载链接                                                     |
+| :----------------------------- | :----------------------------------------------------------- |
+|TongGu-7B-Instruct    | [链接](https://huggingface.co/DLVCLab/TongGu-7B-Instruct) |
+
 ## 数据
 
 **ACCN-INS**: 400万古籍指令微调数据，涵盖古文理解、生成、知识三个维度的共24类估计任务。
