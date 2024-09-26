@@ -30,31 +30,31 @@ ACCN-INS数据集只能用于非商业研究目的。对于想要使用ACCN-INS�
 
 <details><summary><b>句读</b></summary>
     
-![image](https://github.com/zhuyiqun/Tonggu/blob/main/images/标点.png)
+![image](https://github.com/SCUT-DLVCLab/Tonggu-LLM/blob/main/images/标点.png)
 
 </details>
 
 <details><summary><b>成语解释</b></summary>
     
-![image](https://github.com/zhuyiqun/Tonggu/blob/main/images/成语解释.png)
+![image](https://github.com/SCUT-DLVCLab/Tonggu-LLM/blob/main/images/成语解释.png)
 
 </details>
 
 <details><summary><b>文白翻译</b></summary>
     
-![image](https://github.com/zhuyiqun/Tonggu/blob/main/images/文白翻译.png)
+![image](https://github.com/SCUT-DLVCLab/Tonggu-LLM/blob/main/images/文白翻译.png)
 
 </details>
 
 <details><summary><b>白文翻译</b></summary>
     
-![image](https://github.com/zhuyiqun/Tonggu/blob/main/images/白文翻译.png)
+![image](https://github.com/SCUT-DLVCLab/Tonggu-LLM/blob/main/images/白文翻译.png)
 
 </details>
 
 <details><summary><b>诗词创作</b></summary>
     
-![image](https://github.com/zhuyiqun/Tonggu/blob/main/images/词创作.png)
+![image](https://github.com/SCUT-DLVCLab/Tonggu-LLM/blob/main/images/词创作.png)
 
 </details>
 
