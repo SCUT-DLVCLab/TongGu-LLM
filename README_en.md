@@ -9,6 +9,10 @@
 
 Tonggu is a classical Chinese LLM developed by the Deep Learning and Visual Computing Laboratory (SCUT-DLVCLab) at South China University of Technology. It has strong capabilities in understanding and processing ancient texts. Tonggu uses multi-stage instruction fine-tuning and innovatively proposes a Redundancy-Aware Tuning (RAT) method, which greatly retains the capabilities of the base model while enhancing the performance of downstream tasks.
 
+<p align="center">
+    <strong>Figure 1: Training pipeline of TongGu.</strong>
+<p>
+
 <div align="center">
   <img src="./images/model_training.png">
 </div>
@@ -18,10 +22,17 @@ Tonggu is a classical Chinese LLM developed by the Deep Learning and Visual Comp
 
 Tonggu has surpassed existing models in a wide range of classical Chinese understanding and processing tasks. A comparison with its base model Baichuan2-7B-Chat demonstrates the effectiveness of Tonggu's training process and methods. In the future, Tonggu will continue to update its model and benefit from even more powerful base models.
 
+<p align="center">
+    <strong>Table 1: Evaluation results on C3bench.</strong>
+<p>
 
 <div align="center">
   <img src="./images/evaluation_table.png">
 </div>
+
+<p align="center">
+    <strong>Table 2: Evaluation results on our test data.</strong>
+<p>
 
 <div align="center">
   <img src="./images/evaluation_table2.png" width="600">
