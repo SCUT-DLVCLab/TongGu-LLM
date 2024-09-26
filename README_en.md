@@ -50,7 +50,7 @@ All users must follow all use conditions; otherwise, the authorization will be r
 # News
 
 - 2024/9/21 The paper of Tonggu has been accepted by EMNLP 2024.
-- 2024/9/30 Tonggu model and instruction data have been opened sourced.
+- 2024/9/26 Tonggu model and instruction data have been opened sourced.
 
 
 # Examples
