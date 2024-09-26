@@ -118,7 +118,7 @@ print(generate_text)
 @article{cao2024tonggu,
   title={TongGu: Mastering Classical Chinese Understanding with Knowledge-Grounded Large Language Models},
   author={Cao, Jiahuan and Peng, Dezhi and Zhang, Peirong and Shi, Yongxin and Liu, Yang and Ding, Kai and Jin, Lianwen},
-  journal={arXiv preprint arXiv:2407.03937},
+  journal={EMNLP 2024},
   year={2024}
 }
 ```
