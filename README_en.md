@@ -42,11 +42,11 @@ Tonggu has surpassed existing models in a wide range of classical Chinese unders
 
 ## Model
 
-[**TongGu-7B-Instruct**](https://huggingface.co/DLVCLab/TongGu-7B-Instruct): The 7B classical Chinese language model is based on Baichuan2-7B-Base, which has undergone unsupervised incremental pre-training on a corpus of 2.41 billion classical Chinese texts, and fine-tuned on 4 million classical Chinese dialogue data, possessing functions such as ancient text annotation, translation, and appreciation.
+[**TongGu-7B-Instruct**](https://huggingface.co/SCUT-DLVCLab/TongGu-7B-Instruct): The 7B classical Chinese language model is based on Baichuan2-7B-Base, which has undergone unsupervised incremental pre-training on a corpus of 2.41 billion classical Chinese texts, and fine-tuned on 4 million classical Chinese dialogue data, possessing functions such as ancient text annotation, translation, and appreciation.
 
 | Model                       | Download Link                                                     |
 | :----------------------------- | :----------------------------------------------------------- |
-|TongGu-7B-Instruct    | [Link](https://huggingface.co/DLVCLab/TongGu-7B-Instruct) |
+|TongGu-7B-Instruct    | [Link](https://huggingface.co/SCUT-DLVCLab/TongGu-7B-Instruct) |
 
 
 ## Data
@@ -103,7 +103,7 @@ All users must follow all use conditions; otherwise, the authorization will be r
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
-model_path = "DLVCLab/TongGu-7B-Instruct"
+model_path = "SCUT-DLVCLab/TongGu-7B-Instruct"
 model = AutoModelForCausalLM.from_pretrained(model_path, device_map='auto', torch_dtype=torch.bfloat16, trust_remote_code=True)
 tokenizer = AutoTokenizer.from_pretrained(model_path, trust_remote_code=True)
 
