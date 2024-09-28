@@ -46,11 +46,11 @@
 
 ## 模型
 
-[**TongGu-7B-Instruct**](https://huggingface.co/DLVCLab/TongGu-7B-Instruct): 7B古籍大语言模型，基于Baichuan2-7B-Base，在2.41B古籍语料上做无监督增量预训练，并在400万古籍对话数据上做指令微调，具备古文句读、翻译、赏析等功能。
+[**TongGu-7B-Instruct**](https://huggingface.co/SCUT-DLVCLab/TongGu-7B-Instruct): 7B古籍大语言模型，基于Baichuan2-7B-Base，在2.41B古籍语料上做无监督增量预训练，并在400万古籍对话数据上做指令微调，具备古文句读、翻译、赏析等功能。
 
 | 模型名称                       | 下载链接                                                     |
 | :----------------------------- | :----------------------------------------------------------- |
-|TongGu-7B-Instruct    | [链接](https://huggingface.co/DLVCLab/TongGu-7B-Instruct) |
+|TongGu-7B-Instruct    | [链接](https://huggingface.co/SCUT-DLVCLab/TongGu-7B-Instruct) |
 
 ## 数据
 
@@ -106,7 +106,7 @@ ACCN-INS数据集只能用于非商业研究目的。对于想要使用ACCN-INS�
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
-model_path = "DLVCLab/TongGu-7B-Instruct"
+model_path = "SCUT-DLVCLab/TongGu-7B-Instruct"
 model = AutoModelForCausalLM.from_pretrained(model_path, device_map='auto', torch_dtype=torch.bfloat16, trust_remote_code=True)
 tokenizer = AutoTokenizer.from_pretrained(model_path, trust_remote_code=True)
 
